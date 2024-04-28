@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-size: 62px;
+}
+li{
+    text-align: center;
+    font-size: 31px;
+
+}
+body{background-color: rgb(15, 15, 15);}
